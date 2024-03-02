@@ -1,0 +1,21 @@
+# Age and Gender Detection
+
+## Overview
+This project implements deep learning models for age and gender detection using facial images. It uses convolutional neural networks (CNNs) to classify gender and estimate age from input images.
+
+## Features
+- Gender classification: Predicts the gender (male/female) of a person in the input image.
+- Age estimation: Estimates the age of a person in the input image.
+
+## Requirements
+- Python 3.x
+- TensorFlow
+- Keras
+- NumPy
+- OpenCV (optional, for image preprocessing)
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your_username/age-gender-detection.git
+   cd age-gender-detection
